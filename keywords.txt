@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For DDSM115
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DDSM115	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setID		KEYWORD2
+getID		KEYWORD2
+setMode    	KEYWORD2
+getMode		KEYWORD2
+setBrakes	KEYWORD2
+setCurrent	KEYWORD2
+setVelocity	KEYWORD2
+setPosition	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+CURRENT_LOOP	LITERAL1
+VELOCITY_LOOP	LITERAL1
+POSITION_LOOP	LITERAL1
+DDSM115_TROUBLESHOOTING			LITERAL1
+DDSM115_STALL_ERROR				LITERAL1
+DDSM115_PHASE_OVERCURRENT_ERROR	LITERAL1
+DDSM115_OVERCURRENT_ERROR		LITERAL1
+DDSM115_SENSOR_ERROR			LITERAL1
